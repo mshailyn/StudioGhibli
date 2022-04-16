@@ -39,6 +39,7 @@ function getCharacter(){
       });
 }
 
+//Special Function
 
 function capitalizeFirstLetter(str){
     let result = str.toLowerCase().split(' ')
